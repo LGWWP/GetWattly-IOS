@@ -1,0 +1,157 @@
+GET WATTLY – TEKSTEN VOOR APP STORE CONNECT
+===========================================
+Kopiëren en plakken. Aantal tekens is gecontroleerd op de limieten van Apple.
+
+ALGEMEEN (App Information)
+- Name: Get Wattly
+- Category: Primary = Utilities, Secondary = Lifestyle
+- Content Rights: "Does not contain third-party content"
+- Age Rating: vragenlijst overal "None/No" › 4+
+- Privacy Policy URL: https://getwattly.nl/privacy.html
+- Support URL: https://getwattly.nl/support.html
+- Marketing URL (optioneel): https://getwattly.nl
+- Copyright: 2026 World Wide Programming B.V.
+
+APP PRIVACY (Privacy-vragenlijst)
+- "Do you or your third-party partners collect data from this app?" › No
+  (Alles blijft op de telefoon; aankopen lopen via Apple.)
+
+PRICING AND AVAILABILITY
+- Price: Free (de €49 loopt via de in-app aankoop)
+- Availability: alle landen, of kies Europa/Nederland om te beginnen
+
+------------------------------------------------------------
+ENGLISH (U.K.) – primaire taal
+------------------------------------------------------------
+Subtitle (29/30):
+Your smart home, room by room
+
+Promotional Text (124/170):
+Connect Philips Hue, SmartThings and Plugwise and Get Wattly sorts every device into the right room. Try it free for 7 days.
+
+Keywords (98/100):
+smart home,hue,plugwise,smartthings,fibaro,lights,thermostat,rooms,home control,energy,lamp,switch
+
+Description:
+Your whole home in one app, automatically sorted by room.
+
+Get Wattly connects to the smart home systems you already have and builds a simple, room-based overview within minutes. No new hardware, no complicated setup.
+
+HOW IT WORKS
+• Connect Philips Hue, Samsung SmartThings and Plugwise (Fibaro in beta)
+• Get Wattly reads your devices and puts them in the right room automatically, using the rooms you already have and the device names
+• Devices it can't place? A lamp blinks and you simply tap the room
+• Lights that are in more than one system are shown only once
+
+SIMPLE FOR EVERYONE AT HOME
+• One overview of all rooms, with one tap to switch a room on or off
+• Dim lights, switch plugs and set the thermostat
+• See the temperature per room and the power use of smart plugs
+• Family mode hides the settings, so everyone at home just sees the controls
+
+PRIVATE BY DESIGN
+• Philips Hue, Plugwise and Fibaro are controlled directly over your home network
+• No account needed, no tracking, no advertising
+• Your settings stay on your phone
+
+TRY IT FREE
+Use everything free for 7 days. Then unlock Get Wattly with a single one-time purchase. No subscription, nothing charged automatically.
+
+Note: Philips Hue, Plugwise and Fibaro are controlled over your home Wi-Fi. SmartThings also works away from home.
+
+Get Wattly is developed by World Wide Programming B.V., specialists in smart home and building automation.
+
+------------------------------------------------------------
+DUTCH (Nederlands) – voeg toe via + naast de taal rechtsboven
+------------------------------------------------------------
+Subtitle (25/30):
+Je slimme huis, per kamer
+
+Promotional Text (119/170):
+Koppel Philips Hue, SmartThings en Plugwise en Get Wattly zet elk apparaat in de juiste kamer. 7 dagen gratis proberen.
+
+Keywords (96/100):
+slim huis,hue,plugwise,smartthings,fibaro,lampen,thermostaat,kamers,domotica,verlichting,energie
+
+Description:
+Je hele huis in één app, automatisch per kamer ingedeeld.
+
+Get Wattly koppelt de smart-home-systemen die je al hebt en bouwt binnen een paar minuten een eenvoudig overzicht per kamer. Geen nieuwe hardware, geen ingewikkelde installatie.
+
+ZO WERKT HET
+• Koppel Philips Hue, Samsung SmartThings en Plugwise (Fibaro in bèta)
+• Get Wattly leest je apparaten in en zet ze automatisch in de juiste kamer, op basis van je bestaande kamers en de apparaatnamen
+• Apparaat dat niet te plaatsen is? Een lamp knippert en jij tikt de kamer aan
+• Lampen die in meerdere systemen zitten, zie je maar één keer
+
+EENVOUDIG VOOR IEDEREEN THUIS
+• Eén overzicht van alle kamers, met één tik een kamer aan of uit
+• Lampen dimmen, stekkers schakelen en de thermostaat instellen
+• Temperatuur per kamer en het verbruik van slimme stekkers
+• Gezinsmodus verbergt de instellingen, zodat iedereen thuis alleen de bediening ziet
+
+PRIVACY VOOROP
+• Philips Hue, Plugwise en Fibaro worden rechtstreeks via je thuisnetwerk bediend
+• Geen account nodig, geen tracking, geen advertenties
+• Je instellingen blijven op je telefoon
+
+GRATIS PROBEREN
+Gebruik alles 7 dagen gratis. Daarna ontgrendel je Get Wattly met één eenmalige aankoop. Geen abonnement, er wordt niets automatisch afgeschreven.
+
+Let op: Philips Hue, Plugwise en Fibaro worden via je thuis-wifi bediend. SmartThings werkt ook onderweg.
+
+Get Wattly is ontwikkeld door World Wide Programming B.V., specialist in smart home en gebouwautomatisering.
+
+------------------------------------------------------------
+APP REVIEW INFORMATION
+------------------------------------------------------------
+Sign-in required: NO
+Contact: jouw naam, telefoonnummer en info@worldwideprogramming.nl
+Notes:
+Thank you for reviewing Get Wattly.
+
+Get Wattly connects to smart home systems on the user's home network (Philips Hue, Plugwise, Fibaro) or via the Samsung SmartThings cloud. A review team will normally not have this hardware, so the app contains a built-in DEMO HOME with simulated devices.
+
+HOW TO TEST WITHOUT HARDWARE
+1. Open the app. On the first screen tap "Look at the demo home first".
+2. The app scans the demo home and shows the devices sorted by room. Tap "Assign 3 devices".
+3. For each device, tap a room (in real use the light blinks so the user knows which one it is).
+4. Tap "Open my home". You can now switch rooms and lights on/off, dim lights and change the thermostat.
+5. Settings (gear icon, top right) shows the room layout, family mode and language.
+
+IN-APP PURCHASE
+- "7-day Trial" (non-consumable, free): starts the 7-day free trial.
+- "Get Wattly – full version" (non-consumable, one-time): unlocks the app permanently after the trial.
+- "Restore purchase" is available on the start screen and in Settings.
+Nothing is charged automatically; there is no subscription.
+
+LOCAL NETWORK
+The app requests Local Network permission to find and control the user's own smart home devices. No data is collected by the developer.
+
+Contact: info@worldwideprogramming.nl
+
+------------------------------------------------------------
+SCREENSHOTS
+------------------------------------------------------------
+Map "screenshots" (1320 x 2868, iPhone 6,9"). Upload in deze volgorde:
+1-welcome, 2-scan, 3-assign, 4-home, 5-room
+
+------------------------------------------------------------
+IN-APP PURCHASES (zie ook WINKEL-INSTELLEN.txt)
+------------------------------------------------------------
+1) Product ID: nl.worldwideprogramming.getwattly.volledig – Non-Consumable – € 49,00
+   Display name EN: Get Wattly – full version
+   Description EN: Unlock Get Wattly forever. One-time purchase, no subscription.
+   Display name NL: Get Wattly – volledige versie
+   Description NL: Ontgrendel Get Wattly voor altijd. Eenmalig, geen abonnement.
+   Review screenshot: gebruik screenshots/1-welcome.png
+2) Product ID: nl.worldwideprogramming.getwattly.proef7 – Non-Consumable – Free
+   Reference name: 7-day Trial
+   Display name EN: 7-day free trial
+   Description EN: Try all features of Get Wattly free for 7 days.
+   Display name NL: 7 dagen gratis proberen
+   Description NL: Probeer alle functies van Get Wattly 7 dagen gratis.
+   Review screenshot: gebruik screenshots/1-welcome.png
+
+--
+© 2026 World Wide Programming B.V.
